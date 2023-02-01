@@ -1,0 +1,33 @@
+
+body{
+    font-family: 'Playfair Display', serif;
+}
+.bag{
+    /* background-color: #F2E2D9; */
+    background-color: #FF5F15;
+    overflow: hidden;
+    height: 800px;
+    width: 100%;
+}
+.bag1{
+    /* background-color: #F2E2D9; */
+    background-color: #FF5F15;
+    overflow: hidden;
+    height: 600px;
+    width: 100%;
+}
+ul{
+    display: flex;
+}
+.collection-item:hover{
+    color: orange;
+}
+input::placeholder{
+    padding: 5px;
+}
+.staff{
+    background-color: black;
+    overflow: hidden;
+    width: 100%;
+    height: 550px;
+}
